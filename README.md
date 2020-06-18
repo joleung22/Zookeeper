@@ -1,2 +1,2 @@
 # Zookeeper
-First mini project running a single while loop
+First mini project running a simple while loop
